@@ -1,5 +1,6 @@
 # Akshat Behera - Summer Internship Project @ Phoenix Global
-Project Title: Analysis Of A Marketing Campaign For an E-Commerce Store
+# Project Title: Analysis Of A Marketing Campaign For an E-Commerce Store
+
 In this project, Working with a Mock-Up Advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. Here, Creating a model that will predict whether or not they will click on an ad based off the features of that user.
 
 This data set contains the following features:
